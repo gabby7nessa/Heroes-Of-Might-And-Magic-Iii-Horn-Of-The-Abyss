@@ -192,4 +192,4 @@ This repository serves as the official landing page for Heroes of Might and Magi
 **Get the most recent version of Heroes of Might and Magic III: Horn of the Abyss today!**
 
 ---
-**Last updated:** 2026-11-12 09:25:39 UTC
+**Last updated:** 2026-11-12 17:57:28 UTC
